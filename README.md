@@ -45,9 +45,12 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 
-OUTPUT :
+CLIENT OUTPUT :
 
-![EX-3 IMPLEMENTATION OF SLIDING WINDOW PROTOCOL](https://github.com/kannan0071/EX-3/assets/119641638/cc12f131-5805-431e-9922-a8dfd3780c54)
+![EX-3 IMPLEMENTATION OF SLIDING WINDOW PROTOCOL](https://github.com/Jeevapriya14/EX-3/assets/121003043/745438ee-6d15-4afc-b58f-e0c6db91b171)
+
+SERVER OUTPUT:
+![EX-3 IMPLEMENTATION OF SLIDING WINDOW PROTOCOL](https://github.com/Jeevapriya14/EX-3/assets/121003043/6931c249-3c4a-4d4d-97d9-4200f03ea470)
 
 
 RESULT:
